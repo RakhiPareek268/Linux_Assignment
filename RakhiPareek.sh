@@ -15,8 +15,8 @@ echo "This script is running on $HOSTNAME"
 
 
 #Exercise 4.
-ANIMALS="man bear pig dog cat deer sheep"
-for MEMBER in $ANIMALS
+PET="man bear pig dog cat deer sheep"
+for MEMBER in $PET
 	do
 		echo $MEMBER
 	done
